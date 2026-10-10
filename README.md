@@ -5,9 +5,13 @@ you, and keep your notes in your browser.
 
 ## Start writing
 
-Open Fluent in your browser and click the page to write. You can also download
-[index.html](./index.html) and open the downloaded file directly. No installation
-or internet connection is needed for writing.
+Choose either option:
+
+- **Open online:** [ksurya.github.io/fluent](https://ksurya.github.io/fluent/).
+- **Download:** Open [index.html](./index.html), use GitHub's **Download raw file**
+  button, and open the downloaded file in your browser. This copy works offline.
+
+No installation is needed. Click the page and start writing.
 
 Fluent formats Markdown as you type. Click formatted text to edit it; the relevant
 Markdown symbols reappear as you move the cursor through them. Your original text
